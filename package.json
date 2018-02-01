@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLIapp",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushimadeeasy/Bamazon.git"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushimadeeasy/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sushimadeeasy/Bamazon#readme",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
